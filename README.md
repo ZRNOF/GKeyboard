@@ -20,6 +20,7 @@
 ## 使用
 
 * 目前還在處理執行檔檔案超過 25MB 的上傳問題，若欲使用本程式電腦需要安裝 [Python3](https://www.python.org/downloads/)
+* 安裝完 Python3 後，開啟終端機，並輸入`pip install pygame`及`pip install pillow`
 * 應用程式介面按鈕 C、D、E、F、G、A、B 為音階 Do - Si ，點按即可發出對應因皆之國動叫聲。
 * HC、HD、HE 為高音 C、D、E。
 * 可用鍵盤上之數字鍵 1、2、3、4、5、6、7、8、9、0 來彈奏，分別對應應用程式介面按鈕 C、D、E、F、G、A、B、HC、HD、HE。

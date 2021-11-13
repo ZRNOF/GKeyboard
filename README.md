@@ -13,6 +13,10 @@
 以下為影片連結：
 * [讓國動成為你裝置裡的鋼琴吧#國動鋼琴 - YouTube](https://www.youtube.com/watch?v=vx8Uq9x5HUA&t=6s)
 
+其他連結：
+* [鼻地大師國動-張葦航 - YouTube](https://www.youtube.com/channel/UCzJ_FzSb4feYyQEUDoVktUQ)
+* [Fuke公爵 - YouTube](https://www.youtube.com/channel/UCypX-oXfJgIYyuzjVdk0Gpg)
+
 ## 使用
 
 * 應用程式介面按鈕 C、D、E、F、G、A、B 為音階 Do - Si ，點按即可發出對應因皆之國動叫聲。

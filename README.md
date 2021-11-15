@@ -17,10 +17,13 @@
 * [鼻地大師國動-張葦航 - YouTube](https://www.youtube.com/channel/UCzJ_FzSb4feYyQEUDoVktUQ)
 * [Fuke公爵 - YouTube](https://www.youtube.com/channel/UCypX-oXfJgIYyuzjVdk0Gpg)
 
-## 使用
+## 安裝
 
 * 目前還在處理執行檔檔案超過 25MB 的上傳問題，若欲使用本程式電腦需要安裝 [Python3](https://www.python.org/downloads/)，安裝完後，開啟終端機，輸入`pip install pygame`及`pip install pillow` 安裝必要第三方模組。
 * 或至[這裡](https://drive.google.com/file/d/1eMywBxeR46jSQJciwtiokM2YkzSQ7EdL/view?usp=sharing)(Google drive)下載壓縮檔，解壓縮後點擊`Mr_Chang.exe`執行檔執行程式。
+
+## 使用
+
 * 應用程式介面按鈕 C、D、E、F、G、A、B 為音階 Do - Si ，點按即可發出對應音階之國動叫聲。
 * HC、HD、HE 為高音 C、D、E。
 * 可用鍵盤上之數字鍵 1、2、3、4、5、6、7、8、9、0 來彈奏，分別對應應用程式介面按鈕 C、D、E、F、G、A、B、HC、HD、HE。
